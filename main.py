@@ -8,7 +8,6 @@ def swap_text(s):
   print(result)
 
 
-swap_text("hola TODOS son PUTOS"
-         )
+swap_text("hola TODOS son PUTOS")
 
 
